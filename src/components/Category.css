@@ -1,0 +1,16 @@
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.row_1 {
+  background-color: white;
+  box-shadow: 0.5px 0.5px 10px rgb(193, 182, 182);
+  border-radius: 10%;
+  margin: 0 2rem;
+}
+
+.event {
+  border-radius: 50%;
+}
